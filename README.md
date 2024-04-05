@@ -26,6 +26,7 @@ Ensure that the selected file is a valid MS Word file in .docx format.
 The script will use the first paragraph as Title and the second paragraph as Body. 
 The third paragraph must be left empty, as it serves as a separator between this slide and the following one.
 Ensure the Word file comply with the structure:
+  
   Title 1
   Body 1
 
