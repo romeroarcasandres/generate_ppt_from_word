@@ -6,8 +6,11 @@ This script facilitates the creation of a PowerPoint presentation from a Word do
 
 ## Requirements:
 Python 3
+
 tkinter library
+
 docx library
+
 pptx library
 
 ## Files
@@ -23,8 +26,11 @@ See "ppt_from_word_1.JPG" and "ppt_from_word_2".
 
 ## Important Note
 Ensure that the selected file is a valid MS Word file in .docx format.
+
 The script will use the first paragraph as Title and the second paragraph as Body.
+
 The third paragraph must be left empty, as it serves as a separator between this slide and the following one.
+
 Ensure the Word file comply with the structure: See "ppt_from_word_3"
 
 ## License
