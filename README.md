@@ -25,16 +25,7 @@ See "ppt_from_word_1.JPG" and "ppt_from_word_2".
 Ensure that the selected file is a valid MS Word file in .docx format.
 The script will use the first paragraph as Title and the second paragraph as Body. 
 The third paragraph must be left empty, as it serves as a separator between this slide and the following one.
-Ensure the Word file comply with the structure:
-  
-  Title 1
-  Body 1
-
-
-  Title 2
-  Body 2
-
-See "ppt_from_word_3"
+Ensure the Word file comply with the structure: See "ppt_from_word_3"
 
 ## License
 This project is governed by the GNU Affero General Public License v3.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
