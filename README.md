@@ -34,4 +34,4 @@ The third paragraph must be left empty, as it serves as a separator between this
 Ensure the Word file comply with the structure: See "ppt_from_word_3"
 
 ## License
-This project is governed by the GNU Affero General Public License v3.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
+This project is governed by the CC BY-NC 4.0. For comprehensive details, kindly refer to the LICENSE file included with this project.
